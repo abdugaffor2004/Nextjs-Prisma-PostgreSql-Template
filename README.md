@@ -1,1 +1,1 @@
-Nextjs-Prisma-PostgreSql-Template
+# Nextjs-Prisma-PostgreSql-Template
